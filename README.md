@@ -47,7 +47,7 @@ python cli.py --symbol ETHUSDT --side SELL --type LIMIT --quantity 0.009
 ```
 ### Note: Price is auto-adjusted if not provided
 
-📝 Logs
+## 📝 Logs
 
 Logs are saved in:
 
