@@ -10,11 +10,9 @@ Supports BUY and SELL
 
 CLI-based input using argparse
 
-Structured code (client, orders, validation)
+Logging of requests and responses available
 
-Logging of requests and responses
-
-Error handling for invalid inputs and API failures
+Robust error handling for invalid inputs and API failures
 
 Auto price adjustment for LIMIT orders (optional enhancement)
 
