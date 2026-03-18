@@ -2,7 +2,7 @@
 
 A Python CLI application to place MARKET and LIMIT orders on Binance Futures Testnet (USDT-M).
 
-⚙️ Features
+## ⚙️ Features
 
 Place MARKET and LIMIT orders
 
@@ -57,7 +57,7 @@ Logs are saved in:
 trading_bot.log
 ```
 
-Log Includes:
+### Log Includes:
 
 Request details
 
@@ -69,6 +69,6 @@ Errors
 
 Uses Binance Futures Testnet
 
-### Some LIMIT orders may remain NEW due to testnet liquidity
+<b>Some LIMIT orders may remain NEW due to testnet liquidity</b>
 
 MARKET orders are used to ensure execution
